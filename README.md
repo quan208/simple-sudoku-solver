@@ -1,2 +1,4 @@
 # simple-sudoku-solver
-just download and run the python file!
+Just download and run the python file!
+
+requires pygame module to run
